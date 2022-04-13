@@ -1,46 +1,69 @@
-# Getting Started with Create React App
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jtiagosantos/zustand-app?color=%green">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jtiagosantos/zustand-app?color=blue">
+  <a href="https://github.com/jtiagosantos/zustand-app/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jtiagosantos/zustand-app?color=purple">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=orange">
+   <a href="https://github.com/jtiagosantos/zustand-app/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/jtiagosantos/zustand-app?style=social">
+  </a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<hr>
 
-## Available Scripts
+## ⚙️ Features
 
-In the project directory, you can run:
+- [x] Global states management
+- [x] Persist states
+- [x] Integrate Zustand with Typescript
 
-### `yarn start`
+<hr>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🚀 Run Project
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1️⃣ Clone project and access its folder:
 
-### `yarn test`
+```bash
+$ git clone https://github.com/jtiagosantos/zustand-app.git
+$ cd zustand-app
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2️⃣ Install dependencies:
 
-### `yarn build`
+```bash
+$ yarn or npm i
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3️⃣ Start project:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+$ yarn start or npm start
+```
+<hr>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠 Technologies
 
-### `yarn eject`
+The following tools were used in the construction of project:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- **[React](https://nextjs.org/)**
+- **[Typescript](https://www.typescriptlang.org/)**
+- **[React Router Dom](https://reactrouter.com/docs/en/v6/getting-started/overview)**
+- **[Zustand](https://www.npmjs.com/package/zustand)**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<hr>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 👨‍💻 Author
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<img src="https://avatars.githubusercontent.com/u/63312141?v=4" width="100" alt="Tiago Santos" style="border-radius: 50px;" />
 
-## Learn More
+<strong><a href="https://github.com/jtiagosantos">Tiago Santos </a>🚀</strong>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-tiago-santos-de-lima-aaa4361a4/)](https://www.linkedin.com/in/josetiagosantosdelima/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiago.santos@icomp.ufam.edu.br)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<hr>
+
+## 📝 License
+
+This project is under license [MIT](./LICENSE).
